@@ -20,8 +20,8 @@ function createLeaderboardEmbed(topUsers, weekStart, currentPage = 1, totalPages
     });
     
     const title = totalPages > 1 
-        ? `Bảng Xếp Hạng Nổ Mình Tuần (Trang ${currentPage}/${totalPages})`
-        : 'Bảng Xếp Hạng Nổ Mình Tuần';
+        ? `Bảng Xếp Hạng Nổ Mìn Tuần (Trang ${currentPage}/${totalPages})`
+        : 'Bảng Xếp Hạng Nổ Mìn Tuần';
     
     return new EmbedBuilder()
         .setTitle(title)
