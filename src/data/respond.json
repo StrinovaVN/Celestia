@@ -10,6 +10,15 @@
         "8": "${username} đứng trong ultimate của Kanami quá lâu, bị choáng trong ${time} giây.",
         "9": "${username} bị trúng đòn của Kanami, trở lại sau ${time} giây.",
         "10": "${username} bị hạ sau khi ăn op từ Kanami, trở lại sau ${time} giây.",
-        "11": "Repu của ${username} dưới 2, bị cấm chat ${time} giây."
+        "11": "Repu của ${username} dưới 2, bị cấm chat ${time} giây.",
+        "12": "${username} bị ALing beam chết tức tưởi, hồi sinh sau ${time} giây",
+        "13": "${username} make a racist joke, phải đi cải tạo trong ${time} giây",
+        "14": "${username} đã trở thành nole designer, sẽ quay về mặt đất sau ${time} giây",
+        "15": "VÀ ĐÓ LÀ CHUỖI 10 THUA, DERANK 2 BẬC. Quá ớt ${username} quyết định bỏ game trong ${time} giây",
+        "16": "${username} doomposting về GAM Esports trong MSI25, bị Saya block trong ${time} giây",
+        "17": "Chuỗi thua 3, ${username} hóa Naru, bị cấm chat trong ${giây}",
+        "18": "Nhìn 2 team VN bị thongdit trong Ayatori Cup 2, ${username} bật nhạc suy nghe trong ${time} giây",
+        "19": "${username} ước *Kanami co cu r dit minh*, vâng ước mơ đã thành hiện thực, trở lại sau ${time} giây",
+        "20": "Khi được hỏi có thích loli không, ${username} đã trả lời có, giờ họ đang bị FBI tạm giữ trong ${time} giây",
     }
 ]
