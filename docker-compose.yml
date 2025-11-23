@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  celestia:
+    build: .
+    container_name: celestia
+    restart: unless-stopped
+    volumes:
+      - ./src/data:/app/src/data
+    environment:
+      - NODE_ENV=production
+    env_file:
+      - .env

@@ -1,0 +1,9 @@
+{
+    "rate": null,
+    "minTime": null,
+    "maxTime": null,
+    "showImmuneMessage": null,
+    "whitelistChannels": [],
+    "whitelistRoles": [],
+    "whitelistCategories": []
+}

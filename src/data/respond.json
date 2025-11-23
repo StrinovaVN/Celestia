@@ -1,0 +1,15 @@
+[
+    {
+        "1": "${username} vừa ăn đạn lạc từ combat, trở lại sau ${time} giây.",
+        "2": "${username} đọ op với kokona không thành, trở lại sau ${time} giây.",
+        "3": "${username} ăn lineup nade, trở lại sau ${time} giây.",
+        "4": "Ối ${username} vừa giẫm phải tên Chiyo, trở lại sau ${time} giây.",
+        "5": "${username} vừa ăn A2 Celestia, bị mù trong ${time} giây.",
+        "6": "${username} đã bị hạ bởi Baimo khi đang đọ op với Kanami, trở lại sau ${time} giây.",
+        "7": "Ai đấy đã đáp flash vào mặt ${username}, bị mù trong ${time} giây.",
+        "8": "${username} đứng trong ultimate của Kanami quá lâu, bị choáng trong ${time} giây.",
+        "9": "${username} bị trúng đòn của Kanami, trở lại sau ${time} giây.",
+        "10": "${username} bị hạ sau khi ăn op từ Kanami, trở lại sau ${time} giây.",
+        "11": "Repu của ${username} dưới 2, bị cấm chat ${time} giây."
+    }
+]

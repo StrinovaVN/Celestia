@@ -1,0 +1,8 @@
+[
+    {
+        "1": "${username} vừa chết ở mid nhưng kokona đã hồi sinh (${immune_type}).",
+        "2": "${username} (Flavia) bị hội đồng nhưng dùng ultimate kịp thời để đồng đội đến cứu (${immune_type}).",
+        "3": "${username} (Nobunaga) bị bắt lẻ nhưng đã dùng Q để thoát (${immune_type}).",
+        "4": "${username} (Galatea) sủi đi nhanh chóng bằng clone trước khi bị hội đồng (${immune_type})."
+    }
+]
